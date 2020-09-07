@@ -11,3 +11,7 @@
 .card-image img {
     height: 220px; /* Your height here */
 }
+
+.btn {
+    height: 45px !important;
+}
